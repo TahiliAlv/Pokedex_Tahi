@@ -10,6 +10,9 @@ input {
     border: 2px solid rgb(236, 174, 195);
     border-radius: 4px;
 }
+input:focus-visible{
+    outline-color: rgb(144, 183, 233);
+}
 /* Estilo de la poke tarjeta*/
 
 .poke-card {
